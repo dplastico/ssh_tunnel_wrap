@@ -23,6 +23,7 @@ Change the port to be redirected and the connection information of the variables
 Execute the following:
 
 > \>set GOBIN=<C:\path to the cloned repo>
+then:
 > \>go build ssh_tun.go
 
 This will generated a .exe file that you can then execute on the same directory of the cp.pem file. As an example,
