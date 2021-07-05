@@ -22,7 +22,7 @@ Change the port to be redirected and the connection information of the variables
 **Create a binary:**
 Execute the following:
 
-> \>set GOBIN=<C:\path to the cloned repo>
+> \>set GOBIN=<C:\path to the cloned repo \>
 then:
 > \>go build ssh_tun.go
 
